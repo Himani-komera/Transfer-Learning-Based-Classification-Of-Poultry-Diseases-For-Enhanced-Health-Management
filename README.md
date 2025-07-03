@@ -58,27 +58,48 @@ Follow instructions in the data/README.md and models/README.md.
    
 
 Transfer-Learning-Based-Classification-Of-Poultry-Diseases/
+
 │
-├── data/                   
+
+├── data/   
+
 │   └── README.md
+
 │
-├── models/                 
+
+├── models/   
+
+
 │   └── model.h5
 │
+
 ├── src/                    
-│   ├── train.py            
-│   ├── predict.py          
-│   └── utils.py            
+│   ├── train.py 
+
+│   ├── predict.py 
+
+│   └── utils.py 
+
 │
-├── api/                    
+
+├── api/
+
 │   └── app.py
+
 │
-├── tests/                 
+
+├── tests/  
+
 │   └── test_model.py
+
 │
+
 ├── requirements.txt
+
 ├── README.md
-└── run.sh  
+
+└── run.sh 
+
 
 6. Running the Application
    
