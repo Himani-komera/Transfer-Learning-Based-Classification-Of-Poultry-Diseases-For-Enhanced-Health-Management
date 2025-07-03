@@ -23,7 +23,7 @@ Basic frontend interface (optional).
 3. Architecture
    
 System Components: 
-code:  [Dataset] --> [Preprocessing] --> [Transfer Learning Model] --> [Prediction/API] --> [Frontend/UI or JSON Output]
+  [Dataset] --> [Preprocessing] --> [Transfer Learning Model] --> [Prediction/API] --> [Frontend/UI or JSON Output]
 Architecture Details:
 
 Input: Image of a chicken.
@@ -40,7 +40,8 @@ Interface: REST API built with FastAPI or Flask.
    
 Clone the repository
 
-code: git clone https://github.com/yourusername/Transfer-Learning-Based-Classification-Of-Poultry-Diseases.git cd Transfer-Learning-Based-Classification-Of-Poultry-Diseases
+ git clone https://github.com/yourusername/Transfer-Learning-Based-Classification-Of-Poultry-Diseases.git
+ cd Transfer-Learning-Based-Classification-Of-Poultry-Diseases
 
 Create and activate virtual environment
 
